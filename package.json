@@ -1,0 +1,26 @@
+{
+  "name": "banurekhamohan",
+  "version": "1.0.0",
+  "description": "test number formatter",
+  "main": "index.js",
+  "scripts": {
+    "test": "mocha --reporter spec"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/banurekhaMohan279/number-formatter-banu.git"
+  },
+  "author": "“Banurekha",
+  "license": "ISC",
+  "engines": {
+    "node": ">=4.2.4"
+  },
+  "bugs": {
+    "url": "https://github.com/banurekhaMohan279/number-formatter-banu/issues"
+  },
+  "homepage": "https://github.com/banurekhaMohan279/number-formatter-banu#readme",
+  "devDependencies": {
+    "chai": "^3.5.0",
+    "mocha": "^3.2.0"
+  }
+}
